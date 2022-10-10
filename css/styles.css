@@ -1,0 +1,29 @@
+body {
+  background-color: pink;
+}
+
+
+ h1{
+   color: #97C4B8;
+ }
+
+ h3{
+   color: #8CC0DE;
+ }
+ img{
+   height: 150px;
+ }
+
+hr{
+   background-color: white;
+   border-style: none;
+   border-top: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 10%;
+ }
+#profile {
+  background-color: pink;
+  padding: 3% 5%;
+  text-align: center;
+}
